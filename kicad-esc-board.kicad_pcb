@@ -521,12 +521,6 @@
 		(path "/669369fb-f32a-434c-8198-eb9b97ec7d02")
 		(sheetname "/")
 		(sheetfile "kicad-esc-board.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "8" "3" "4" "5")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_text user "S1"
@@ -642,7 +636,7 @@
 			(at -1 13 180)
 			(size 30.27 17.27)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(roundrect_rratio 0.1815286624)
+			(roundrect_rratio 0.08685581934)
 			(net "GND")
 			(pinfunction "HEAT-SINK_8")
 			(pintype "unspecified")
@@ -1829,12 +1823,6 @@
 		(path "/2dcc4d6a-0bf0-4655-839b-92b67eabae97")
 		(sheetname "/")
 		(sheetfile "kicad-esc-board.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_text user "${REFERENCE}"
@@ -1854,7 +1842,7 @@
 			(at 0 -13)
 			(size 30.27 17.27)
 			(layers "B.Cu" "B.Mask" "B.Paste")
-			(roundrect_rratio 0.1815286624)
+			(roundrect_rratio 0.08685581934)
 			(net "GND")
 			(pintype "passive")
 			(uuid "83548b08-0304-4ff0-b557-d59681c9ced6")
@@ -4619,6 +4607,15 @@
 		(uuid "7f358917-f6e5-49db-97d4-2d67f36a7e29")
 	)
 	(via
+		(at 184.4 94.54)
+		(size 0.6)
+		(drill 0.3)
+		(layers "F.Cu" "B.Cu")
+		(free yes)
+		(net "GND")
+		(uuid "7f900c1c-40dc-4cb2-8cb7-1d3c7b30fc7b")
+	)
+	(via
 		(at 182.4 85.54)
 		(size 0.6)
 		(drill 0.3)
@@ -4698,6 +4695,15 @@
 		(free yes)
 		(net "GND")
 		(uuid "8248cd79-38f2-4197-8964-32778983f9b5")
+	)
+	(via
+		(at 184.4 78.54)
+		(size 0.6)
+		(drill 0.3)
+		(layers "F.Cu" "B.Cu")
+		(free yes)
+		(net "GND")
+		(uuid "82687baf-ba14-4c03-a9a8-5e6fe9145b1b")
 	)
 	(via
 		(at 169.4 89.54)
@@ -5076,6 +5082,15 @@
 		(free yes)
 		(net "GND")
 		(uuid "9b9196da-df47-403c-a7cb-7062a6accf2a")
+	)
+	(via
+		(at 156.4 94.54)
+		(size 0.6)
+		(drill 0.3)
+		(layers "F.Cu" "B.Cu")
+		(free yes)
+		(net "GND")
+		(uuid "9c291157-1375-4e44-8bca-2b2d9a65c9fb")
 	)
 	(via
 		(at 164.4 82.54)
@@ -6498,6 +6513,15 @@
 		(free yes)
 		(net "GND")
 		(uuid "f4c5922c-4969-474e-a1b7-5f89b43e40c5")
+	)
+	(via
+		(at 156.4 78.54)
+		(size 0.6)
+		(drill 0.3)
+		(layers "F.Cu" "B.Cu")
+		(free yes)
+		(net "GND")
+		(uuid "f57bbf7c-8d42-4719-9bb4-f9b9980999ea")
 	)
 	(via
 		(at 163.4 78.54)
