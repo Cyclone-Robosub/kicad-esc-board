@@ -1200,32 +1200,32 @@
 		)
 	)
 	(junction
-		(at 88.9 69.85)
+		(at 88.9 49.53)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "84d91995-55b5-4981-b087-45a02695ef2a")
 	)
 	(junction
-		(at 41.91 88.9)
+		(at 41.91 68.58)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b0e22b72-d855-4c74-8db3-3361419b6ed3")
 	)
 	(junction
-		(at 44.45 86.36)
+		(at 44.45 66.04)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "e75bac05-ae17-48e7-bcae-e74a69f2646c")
 	)
 	(junction
-		(at 57.15 88.9)
+		(at 57.15 68.58)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "fdf94dd4-f2dc-4ce5-a191-15e811e5a752")
 	)
 	(wire
 		(pts
-			(xy 88.9 69.85) (xy 88.9 71.12)
+			(xy 88.9 49.53) (xy 88.9 50.8)
 		)
 		(stroke
 			(width 0)
@@ -1235,7 +1235,7 @@
 	)
 	(wire
 		(pts
-			(xy 134.62 69.85) (xy 140.97 69.85)
+			(xy 134.62 49.53) (xy 140.97 49.53)
 		)
 		(stroke
 			(width 0)
@@ -1245,7 +1245,7 @@
 	)
 	(wire
 		(pts
-			(xy 134.62 67.31) (xy 140.97 67.31)
+			(xy 134.62 46.99) (xy 140.97 46.99)
 		)
 		(stroke
 			(width 0)
@@ -1255,7 +1255,7 @@
 	)
 	(wire
 		(pts
-			(xy 44.45 90.17) (xy 44.45 86.36)
+			(xy 44.45 69.85) (xy 44.45 66.04)
 		)
 		(stroke
 			(width 0)
@@ -1265,7 +1265,7 @@
 	)
 	(wire
 		(pts
-			(xy 57.15 88.9) (xy 41.91 88.9)
+			(xy 57.15 68.58) (xy 41.91 68.58)
 		)
 		(stroke
 			(width 0)
@@ -1275,7 +1275,7 @@
 	)
 	(wire
 		(pts
-			(xy 86.36 67.31) (xy 102.87 67.31)
+			(xy 86.36 46.99) (xy 102.87 46.99)
 		)
 		(stroke
 			(width 0)
@@ -1285,7 +1285,7 @@
 	)
 	(wire
 		(pts
-			(xy 76.2 88.9) (xy 57.15 88.9)
+			(xy 76.2 68.58) (xy 57.15 68.58)
 		)
 		(stroke
 			(width 0)
@@ -1295,7 +1295,7 @@
 	)
 	(wire
 		(pts
-			(xy 44.45 86.36) (xy 44.45 85.09)
+			(xy 44.45 66.04) (xy 44.45 64.77)
 		)
 		(stroke
 			(width 0)
@@ -1305,7 +1305,7 @@
 	)
 	(wire
 		(pts
-			(xy 41.91 90.17) (xy 41.91 88.9)
+			(xy 41.91 69.85) (xy 41.91 68.58)
 		)
 		(stroke
 			(width 0)
@@ -1315,7 +1315,7 @@
 	)
 	(wire
 		(pts
-			(xy 88.9 69.85) (xy 102.87 69.85)
+			(xy 88.9 49.53) (xy 102.87 49.53)
 		)
 		(stroke
 			(width 0)
@@ -1325,7 +1325,7 @@
 	)
 	(wire
 		(pts
-			(xy 57.15 82.55) (xy 57.15 88.9)
+			(xy 57.15 62.23) (xy 57.15 68.58)
 		)
 		(stroke
 			(width 0)
@@ -1335,7 +1335,7 @@
 	)
 	(wire
 		(pts
-			(xy 86.36 69.85) (xy 88.9 69.85)
+			(xy 86.36 49.53) (xy 88.9 49.53)
 		)
 		(stroke
 			(width 0)
@@ -1345,7 +1345,7 @@
 	)
 	(wire
 		(pts
-			(xy 134.62 72.39) (xy 140.97 72.39)
+			(xy 134.62 52.07) (xy 140.97 52.07)
 		)
 		(stroke
 			(width 0)
@@ -1355,7 +1355,7 @@
 	)
 	(wire
 		(pts
-			(xy 133.35 107.95) (xy 133.35 109.22)
+			(xy 133.35 87.63) (xy 133.35 88.9)
 		)
 		(stroke
 			(width 0)
@@ -1365,7 +1365,7 @@
 	)
 	(wire
 		(pts
-			(xy 119.38 82.55) (xy 119.38 85.09)
+			(xy 119.38 62.23) (xy 119.38 64.77)
 		)
 		(stroke
 			(width 0)
@@ -1375,7 +1375,7 @@
 	)
 	(wire
 		(pts
-			(xy 73.66 86.36) (xy 73.66 90.17)
+			(xy 73.66 66.04) (xy 73.66 69.85)
 		)
 		(stroke
 			(width 0)
@@ -1385,7 +1385,7 @@
 	)
 	(wire
 		(pts
-			(xy 44.45 86.36) (xy 73.66 86.36)
+			(xy 44.45 66.04) (xy 73.66 66.04)
 		)
 		(stroke
 			(width 0)
@@ -1395,7 +1395,7 @@
 	)
 	(wire
 		(pts
-			(xy 41.91 88.9) (xy 41.91 85.09)
+			(xy 41.91 68.58) (xy 41.91 64.77)
 		)
 		(stroke
 			(width 0)
@@ -1405,7 +1405,7 @@
 	)
 	(wire
 		(pts
-			(xy 76.2 90.17) (xy 76.2 88.9)
+			(xy 76.2 69.85) (xy 76.2 68.58)
 		)
 		(stroke
 			(width 0)
@@ -1414,7 +1414,7 @@
 		(uuid "faed87d1-edaf-4dcb-ac8e-0a55d2d50615")
 	)
 	(label "PWM-GND"
-		(at 44.45 85.09 90)
+		(at 44.45 64.77 90)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1424,7 +1424,7 @@
 		(uuid "8f32efd8-b89e-4575-b942-3bb25235b9e5")
 	)
 	(label "PWM-Ctrl"
-		(at 41.91 85.09 90)
+		(at 41.91 64.77 90)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1435,7 +1435,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 119.38 85.09 0)
+		(at 119.38 64.77 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -1446,7 +1446,7 @@
 		(fields_autoplaced yes)
 		(uuid "0b3116aa-399b-45d0-9f42-bcc57f443201")
 		(property "Reference" "#PWR02"
-			(at 119.38 91.44 0)
+			(at 119.38 71.12 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1457,7 +1457,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 119.38 90.17 0)
+			(at 119.38 69.85 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1467,7 +1467,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 119.38 85.09 0)
+			(at 119.38 64.77 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1478,7 +1478,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 119.38 85.09 0)
+			(at 119.38 64.77 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1489,7 +1489,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 119.38 85.09 0)
+			(at 119.38 64.77 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1513,7 +1513,7 @@
 	)
 	(symbol
 		(lib_id "esc_board_custom_symbols:PhoenixContact_01x03_WireToBoard_TerminalBlock")
-		(at 146.05 69.85 0)
+		(at 146.05 49.53 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -1524,7 +1524,7 @@
 		(fields_autoplaced yes)
 		(uuid "2ce7f096-59ee-4043-bc0f-51085426d767")
 		(property "Reference" "J1"
-			(at 148.59 68.5799 0)
+			(at 148.59 48.2599 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1535,7 +1535,7 @@
 			)
 		)
 		(property "Value" "PhoenixContact_01x03_WireToBoard_TerminalBlock"
-			(at 148.59 71.1199 0)
+			(at 148.59 50.7999 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1546,7 +1546,7 @@
 			)
 		)
 		(property "Footprint" "esc_board_custom_footprints:CONN_1017492"
-			(at 146.05 69.85 0)
+			(at 146.05 49.53 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1556,8 +1556,8 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
-			(at 146.05 69.85 0)
+		(property "Datasheet" "https://www.digikey.com/en/products/detail/phoenix-contact/1017492/9346584"
+			(at 146.05 49.53 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1568,7 +1568,7 @@
 			)
 		)
 		(property "Description" "https://www.digikey.com/en/products/detail/phoenix-contact/1017504/9346605?s=N4IgTCBcDaIIwAY4HYCsCAsIC6BfIA"
-			(at 206.756 73.406 0)
+			(at 206.756 53.086 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1598,7 +1598,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:Heatsink_Pad")
-		(at 133.35 105.41 0)
+		(at 133.35 85.09 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -1609,7 +1609,7 @@
 		(fields_autoplaced yes)
 		(uuid "2dcc4d6a-0bf0-4655-839b-92b67eabae97")
 		(property "Reference" "HS1"
-			(at 137.16 103.5049 0)
+			(at 137.16 83.1849 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1620,7 +1620,7 @@
 			)
 		)
 		(property "Value" "Heatsink_Pad"
-			(at 137.16 106.0449 0)
+			(at 137.16 85.7249 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1631,7 +1631,7 @@
 			)
 		)
 		(property "Footprint" "esc_board_custom_footprints:ESC_HeatSink"
-			(at 133.6548 106.68 0)
+			(at 133.6548 86.36 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1642,7 +1642,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 133.6548 106.68 0)
+			(at 133.6548 86.36 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1653,7 +1653,7 @@
 			)
 		)
 		(property "Description" "Heatsink with electrical connection, 1 pin"
-			(at 133.35 105.41 0)
+			(at 133.35 85.09 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1677,7 +1677,7 @@
 	)
 	(symbol
 		(lib_id "esc_board_custom_symbols:JST_01x02_TH_Vertical")
-		(at 73.66 95.25 90)
+		(at 73.66 74.93 90)
 		(mirror x)
 		(unit 1)
 		(body_style 1)
@@ -1688,7 +1688,7 @@
 		(dnp no)
 		(uuid "5c7b06ef-0555-4b98-bd73-59008fdabd26")
 		(property "Reference" "J5"
-			(at 70.612 94.488 90)
+			(at 70.612 74.168 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1699,7 +1699,7 @@
 			)
 		)
 		(property "Value" "JST_01x02_TH_Vertical"
-			(at 70.866 96.52 90)
+			(at 70.866 76.2 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1710,7 +1710,7 @@
 			)
 		)
 		(property "Footprint" "esc_board_custom_footprints:JST_B2B-PH-K-S"
-			(at 73.66 95.25 0)
+			(at 73.66 74.93 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1720,8 +1720,8 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
-			(at 73.66 95.25 0)
+		(property "Datasheet" "https://www.digikey.com/en/products/detail/jst-sales-america-inc/B2B-PH-K-S/926611"
+			(at 73.66 74.93 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1732,7 +1732,7 @@
 			)
 		)
 		(property "Description" "https://www.digikey.com/en/products/detail/jst-sales-america-inc/B2B-PH-K-S/926611"
-			(at 78.232 142.494 0)
+			(at 78.232 122.174 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1759,7 +1759,7 @@
 	)
 	(symbol
 		(lib_id "esc_board_custom_symbols:PhoenixContact_01x02_WireToBoard_TerminalBlock")
-		(at 81.28 67.31 0)
+		(at 81.28 46.99 0)
 		(mirror y)
 		(unit 1)
 		(body_style 1)
@@ -1770,7 +1770,7 @@
 		(dnp no)
 		(uuid "66932ff1-119f-4f1b-a033-08e1f644b8ad")
 		(property "Reference" "J2"
-			(at 77.47 67.564 0)
+			(at 77.47 47.244 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1780,7 +1780,7 @@
 			)
 		)
 		(property "Value" "PhoenixContact_01x02_WireToBoard_TerminalBlock"
-			(at 54.61 69.088 0)
+			(at 54.61 48.768 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1790,7 +1790,7 @@
 			)
 		)
 		(property "Footprint" "esc_board_custom_footprints:CONN_1017491"
-			(at 81.28 67.31 0)
+			(at 81.28 46.99 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1800,8 +1800,8 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
-			(at 81.28 67.31 0)
+		(property "Datasheet" "https://www.digikey.com/en/products/detail/phoenix-contact/1017491/9346583"
+			(at 81.28 46.99 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1812,7 +1812,7 @@
 			)
 		)
 		(property "Description" "https://www.digikey.com/en/products/detail/phoenix-contact/1017503/9346604"
-			(at 38.354 72.136 0)
+			(at 38.354 51.816 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1839,7 +1839,7 @@
 	)
 	(symbol
 		(lib_id "esc_board_custom_symbols:ESC")
-		(at 118.11 62.23 0)
+		(at 118.11 41.91 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -1850,7 +1850,7 @@
 		(fields_autoplaced yes)
 		(uuid "669369fb-f32a-434c-8198-eb9b97ec7d02")
 		(property "Reference" "M1"
-			(at 118.745 59.69 0)
+			(at 118.745 39.37 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1860,7 +1860,7 @@
 			)
 		)
 		(property "Value" "Blue Robotics Basic ESC"
-			(at 118.745 62.23 0)
+			(at 118.745 41.91 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1870,7 +1870,7 @@
 			)
 		)
 		(property "Footprint" "esc_board_custom_footprints:BlueRobotics_ESC_Basic"
-			(at 118.11 62.23 0)
+			(at 118.11 41.91 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1881,7 +1881,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 118.11 62.23 0)
+			(at 118.11 41.91 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1892,7 +1892,7 @@
 			)
 		)
 		(property "Description" "https://bluerobotics.com/store/thrusters/speed-controllers/besc30-r3/"
-			(at 156.972 81.788 0)
+			(at 156.972 61.468 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1931,7 +1931,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole_Pad")
-		(at 97.79 110.49 0)
+		(at 97.79 90.17 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -1942,7 +1942,7 @@
 		(fields_autoplaced yes)
 		(uuid "96a07415-1ac6-469d-9ba8-f113fb2129db")
 		(property "Reference" "H2"
-			(at 100.33 107.9499 0)
+			(at 100.33 87.6299 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1953,7 +1953,7 @@
 			)
 		)
 		(property "Value" "MountingHole_Pad"
-			(at 100.33 110.4899 0)
+			(at 100.33 90.1699 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1964,7 +1964,7 @@
 			)
 		)
 		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_Pad"
-			(at 97.79 110.49 0)
+			(at 97.79 90.17 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1975,7 +1975,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 97.79 110.49 0)
+			(at 97.79 90.17 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1986,7 +1986,7 @@
 			)
 		)
 		(property "Description" "Mounting Hole with connection"
-			(at 97.79 110.49 0)
+			(at 97.79 90.17 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2010,7 +2010,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 133.35 109.22 0)
+		(at 133.35 88.9 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -2021,7 +2021,7 @@
 		(fields_autoplaced yes)
 		(uuid "a44c8efd-2474-4243-9167-ce8db3eab82c")
 		(property "Reference" "#PWR03"
-			(at 133.35 115.57 0)
+			(at 133.35 95.25 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2032,7 +2032,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 133.35 114.3 0)
+			(at 133.35 93.98 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2042,7 +2042,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 133.35 109.22 0)
+			(at 133.35 88.9 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2053,7 +2053,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 133.35 109.22 0)
+			(at 133.35 88.9 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2064,7 +2064,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 133.35 109.22 0)
+			(at 133.35 88.9 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2088,7 +2088,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 72.39 113.03 0)
+		(at 72.39 92.71 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -2099,7 +2099,7 @@
 		(fields_autoplaced yes)
 		(uuid "a947b049-3504-4e20-bce3-bac0f04ea52e")
 		(property "Reference" "#PWR04"
-			(at 72.39 119.38 0)
+			(at 72.39 99.06 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2110,7 +2110,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 72.39 118.11 0)
+			(at 72.39 97.79 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2120,7 +2120,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 72.39 113.03 0)
+			(at 72.39 92.71 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2131,7 +2131,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 72.39 113.03 0)
+			(at 72.39 92.71 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2142,7 +2142,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 72.39 113.03 0)
+			(at 72.39 92.71 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2166,7 +2166,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole_Pad")
-		(at 72.39 110.49 0)
+		(at 72.39 90.17 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -2177,7 +2177,7 @@
 		(fields_autoplaced yes)
 		(uuid "aba83264-7ad6-4a23-90b7-7d254336d609")
 		(property "Reference" "H1"
-			(at 74.93 107.9499 0)
+			(at 74.93 87.6299 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2188,7 +2188,7 @@
 			)
 		)
 		(property "Value" "MountingHole_Pad"
-			(at 74.93 110.4899 0)
+			(at 74.93 90.1699 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2199,7 +2199,7 @@
 			)
 		)
 		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_Pad"
-			(at 72.39 110.49 0)
+			(at 72.39 90.17 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2210,7 +2210,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 72.39 110.49 0)
+			(at 72.39 90.17 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2221,7 +2221,7 @@
 			)
 		)
 		(property "Description" "Mounting Hole with connection"
-			(at 72.39 110.49 0)
+			(at 72.39 90.17 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2245,7 +2245,7 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_01x01")
-		(at 57.15 77.47 90)
+		(at 57.15 57.15 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -2256,7 +2256,7 @@
 		(fields_autoplaced yes)
 		(uuid "adeb1643-5fbd-4583-b637-5ea79892fafc")
 		(property "Reference" "J3"
-			(at 59.69 76.1999 90)
+			(at 59.69 55.8799 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2267,7 +2267,7 @@
 			)
 		)
 		(property "Value" "Conn_01x01"
-			(at 59.69 78.7399 90)
+			(at 59.69 58.4199 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2278,7 +2278,7 @@
 			)
 		)
 		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical"
-			(at 57.15 77.47 0)
+			(at 57.15 57.15 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2289,7 +2289,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 57.15 77.47 0)
+			(at 57.15 57.15 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2300,7 +2300,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 57.15 77.47 0)
+			(at 57.15 57.15 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2324,7 +2324,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 88.9 71.12 0)
+		(at 88.9 50.8 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -2335,7 +2335,7 @@
 		(fields_autoplaced yes)
 		(uuid "c041aa1e-9795-46b3-b658-286437a7d837")
 		(property "Reference" "#PWR01"
-			(at 88.9 77.47 0)
+			(at 88.9 57.15 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2346,7 +2346,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 88.9 76.2 0)
+			(at 88.9 55.88 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2356,7 +2356,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 88.9 71.12 0)
+			(at 88.9 50.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2367,7 +2367,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 88.9 71.12 0)
+			(at 88.9 50.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2378,7 +2378,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 88.9 71.12 0)
+			(at 88.9 50.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2402,7 +2402,7 @@
 	)
 	(symbol
 		(lib_id "esc_board_custom_symbols:JST_01x02_TH_Vertical")
-		(at 41.91 95.25 90)
+		(at 41.91 74.93 90)
 		(mirror x)
 		(unit 1)
 		(body_style 1)
@@ -2413,7 +2413,7 @@
 		(dnp no)
 		(uuid "d9474a15-c039-4c23-979e-18739fb557d8")
 		(property "Reference" "J4"
-			(at 38.862 94.488 90)
+			(at 38.862 74.168 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2424,7 +2424,7 @@
 			)
 		)
 		(property "Value" "JST_01x02_TH_Vertical"
-			(at 39.116 96.52 90)
+			(at 39.116 76.2 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2435,7 +2435,7 @@
 			)
 		)
 		(property "Footprint" "esc_board_custom_footprints:JST_B2B-PH-K-S"
-			(at 41.91 95.25 0)
+			(at 41.91 74.93 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2445,8 +2445,8 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
-			(at 41.91 95.25 0)
+		(property "Datasheet" "https://www.digikey.com/en/products/detail/jst-sales-america-inc/B2B-PH-K-S/926611"
+			(at 41.91 74.93 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2457,7 +2457,7 @@
 			)
 		)
 		(property "Description" "https://www.digikey.com/en/products/detail/jst-sales-america-inc/B2B-PH-K-S/926611"
-			(at 46.482 142.494 0)
+			(at 46.482 122.174 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2484,7 +2484,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 97.79 113.03 0)
+		(at 97.79 92.71 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -2495,7 +2495,7 @@
 		(fields_autoplaced yes)
 		(uuid "ff3178f2-eaf1-46e3-83c0-4715797499ba")
 		(property "Reference" "#PWR05"
-			(at 97.79 119.38 0)
+			(at 97.79 99.06 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2506,7 +2506,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 97.79 118.11 0)
+			(at 97.79 97.79 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2516,7 +2516,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 97.79 113.03 0)
+			(at 97.79 92.71 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2527,7 +2527,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 97.79 113.03 0)
+			(at 97.79 92.71 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2538,7 +2538,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 97.79 113.03 0)
+			(at 97.79 92.71 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
