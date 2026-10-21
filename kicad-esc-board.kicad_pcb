@@ -118,7 +118,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.digikey.com/en/products/detail/phoenix-contact/1017491/9346583"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -521,6 +521,12 @@
 		(path "/669369fb-f32a-434c-8198-eb9b97ec7d02")
 		(sheetname "/")
 		(sheetfile "kicad-esc-board.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2" "8" "3" "4" "5")
+			)
+		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_text user "S1"
@@ -905,7 +911,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.digikey.com/en/products/detail/phoenix-contact/1017492/9346584"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -1137,12 +1143,13 @@
 			(pintype "passive")
 			(uuid "466c2161-ba07-4f3a-99e8-2643fe763f62")
 		)
-		(pad "e" thru_hole circle
+		(pad "4" thru_hole circle
 			(at -10.16 -8.700002 270)
 			(size 1.905 1.905)
 			(drill 1.397)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
+			(net "Net-(J1-Pin_3)")
 			(uuid "21a75dab-1d2d-4b42-b75a-f1b77667dbb0")
 		)
 		(embedded_fonts no)
@@ -1185,7 +1192,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.digikey.com/en/products/detail/jst-sales-america-inc/B2B-PH-K-S/926611"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -1425,7 +1432,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.digikey.com/en/products/detail/jst-sales-america-inc/B2B-PH-K-S/926611"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -1823,6 +1830,12 @@
 		(path "/2dcc4d6a-0bf0-4655-839b-92b67eabae97")
 		(sheetname "/")
 		(sheetfile "kicad-esc-board.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1")
+			)
+		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_text user "${REFERENCE}"
