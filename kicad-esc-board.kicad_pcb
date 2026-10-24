@@ -472,7 +472,7 @@
 			(unlocked yes)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "d7ab1277-1005-476e-b41a-0be3d96a5405")
+			(uuid "6b09d392-cc3b-4beb-ae3a-41c524a94857")
 			(effects
 				(font
 					(size 1 1)
@@ -484,7 +484,7 @@
 			(at 0 1 180)
 			(unlocked yes)
 			(layer "F.Fab")
-			(uuid "8a4b57dc-2547-4153-866e-80e70cf06d8f")
+			(uuid "3f491260-00ce-42d7-93ea-b4036480cbc4")
 			(effects
 				(font
 					(size 1 1)
@@ -497,7 +497,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "62f3373b-44ff-4764-b80a-f24a058ca1bb")
+			(uuid "a22aaa7a-c4b5-4186-b675-e72e6d8b4ab2")
 			(effects
 				(font
 					(size 1 1)
@@ -510,7 +510,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "29e23ebc-44ed-4286-8d89-78a010ef92b0")
+			(uuid "117a45b2-fe24-445b-86d7-3790e13294cb")
 			(effects
 				(font
 					(size 1 1)
@@ -941,9 +941,9 @@
 		(descr "Through hole straight pin header, 1x02, 2.00mm pitch, single row")
 		(tags "Through hole pin header THT 1x02 2.00mm single row")
 		(property "Reference" "J6"
-			(at 0 1 90)
+			(at 1.75 1 0)
 			(layer "F.SilkS")
-			(uuid "19060afa-aefa-41d3-8e35-9c9e6c32d3f5")
+			(uuid "b3335bee-04d6-4644-a2b1-f622fd7086bf")
 			(effects
 				(font
 					(size 1 1)
@@ -954,7 +954,7 @@
 		(property "Value" "JST_01x02_TH_Vertical"
 			(at 0 4.11 90)
 			(layer "F.Fab")
-			(uuid "707421bd-1a19-4e43-ab67-fb336ecb2223")
+			(uuid "12708b78-08ea-4576-bace-d723efaca9ac")
 			(effects
 				(font
 					(size 1 1)
@@ -966,7 +966,7 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "c7e7b920-61d2-4757-9633-1fec7cb0913d")
+			(uuid "a8c6bc4d-1c40-4f87-a9e3-14e3b90e9853")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -977,7 +977,7 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "d32cae33-2d5f-4b60-8f78-9417e49681ab")
+			(uuid "a78ea42f-d747-467c-adba-57a0a17bd8ec")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2139,7 +2139,7 @@
 		)
 	)
 	(gr_text "GND"
-		(at 201.65 81.01175 0)
+		(at 201.65 79.79 0)
 		(layer "F.SilkS")
 		(uuid "1450167e-4c95-4ac0-bed5-5b546a6de678")
 		(effects
