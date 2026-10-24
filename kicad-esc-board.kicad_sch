@@ -1132,7 +1132,7 @@
 	)
 	(wire
 		(pts
-			(xy 59.69 66.04) (xy 73.66 66.04)
+			(xy 59.69 66.04) (xy 76.2 66.04)
 		)
 		(stroke
 			(width 0)
@@ -1152,7 +1152,7 @@
 	)
 	(wire
 		(pts
-			(xy 57.15 68.58) (xy 41.91 68.58)
+			(xy 41.91 68.58) (xy 73.66 68.58)
 		)
 		(stroke
 			(width 0)
@@ -1169,16 +1169,6 @@
 			(type default)
 		)
 		(uuid "483cd344-da37-4604-a7ef-6923f950a1b3")
-	)
-	(wire
-		(pts
-			(xy 76.2 68.58) (xy 57.15 68.58)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4ce8002b-dca8-4089-8532-ad1c9dd48382")
 	)
 	(wire
 		(pts
@@ -1209,6 +1199,26 @@
 			(type default)
 		)
 		(uuid "69f73495-9cb4-458e-aff1-1b6715c21383")
+	)
+	(wire
+		(pts
+			(xy 76.2 66.04) (xy 76.2 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6b001a05-5019-497f-bd45-b39b31e36411")
+	)
+	(wire
+		(pts
+			(xy 73.66 68.58) (xy 73.66 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "772c4a1b-1bd1-4bf4-a240-4e01c2a98c7c")
 	)
 	(wire
 		(pts
@@ -1272,16 +1282,6 @@
 	)
 	(wire
 		(pts
-			(xy 73.66 66.04) (xy 73.66 69.85)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "bc49661e-e3ee-42ac-a5a6-d7b593dad282")
-	)
-	(wire
-		(pts
 			(xy 44.45 66.04) (xy 59.69 66.04)
 		)
 		(stroke
@@ -1299,16 +1299,6 @@
 			(type default)
 		)
 		(uuid "d9540475-22a6-478b-9198-924c639a81fa")
-	)
-	(wire
-		(pts
-			(xy 76.2 69.85) (xy 76.2 68.58)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "faed87d1-edaf-4dcb-ac8e-0a55d2d50615")
 	)
 	(label "PWM-GND"
 		(at 44.45 64.77 90)

@@ -918,7 +918,6 @@
 			(drill 1.397)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net "Net-(J1-Pin_3)")
 			(uuid "21a75dab-1d2d-4b42-b75a-f1b77667dbb0")
 		)
 		(embedded_fonts no)
@@ -1182,7 +1181,7 @@
 		(property "Reference" "J4"
 			(at 0 -1.45 0)
 			(layer "F.SilkS")
-			(uuid "384b5a33-955a-4d27-9e07-15832e81bb8b")
+			(uuid "86eacb5c-0694-41f6-ba4d-016339a5a975")
 			(effects
 				(font
 					(size 1 1)
@@ -1193,7 +1192,7 @@
 		(property "Value" "JST_01x02_TH_Vertical"
 			(at 5.69 3.665 0)
 			(layer "F.Fab")
-			(uuid "75e1dfda-bd66-4227-bc69-98d51c00d2ac")
+			(uuid "65d22007-df7d-4eb7-a0a4-087bfbbda546")
 			(effects
 				(font
 					(size 1 1)
@@ -1205,7 +1204,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "0e5aceca-1e92-4864-93fa-f43d2c411dd4")
+			(uuid "b0ef877d-fc63-4869-afa7-a5c33ed3702b")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1216,7 +1215,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "4616787f-c3a7-44b4-a5ee-7abe1c8d3cf0")
+			(uuid "7899eaa7-4b64-4804-a788-1d74c8309390")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1417,11 +1416,11 @@
 	(footprint "esc_board_custom_footprints:JST_B2B-PH-K-S"
 		(layer "F.Cu")
 		(uuid "c6051f18-d0ba-499c-ba2e-385816359c46")
-		(at 217.4 94.84 180)
+		(at 217.65 94.84 180)
 		(property "Reference" "J5"
 			(at 0 -1.45 0)
 			(layer "F.SilkS")
-			(uuid "6d21d169-6da8-488e-a80a-5c8e626acb2a")
+			(uuid "fe17a2ef-a983-4360-8a0f-71ad30419538")
 			(effects
 				(font
 					(size 1 1)
@@ -1432,7 +1431,7 @@
 		(property "Value" "JST_01x02_TH_Vertical"
 			(at 5.69 3.665 0)
 			(layer "F.Fab")
-			(uuid "c94ff8cc-bd20-410a-a838-7a411581d308")
+			(uuid "3ce908f7-45a9-4311-bd3e-d7e540cc3b63")
 			(effects
 				(font
 					(size 1 1)
@@ -1444,7 +1443,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "4abaa47e-85bf-4c60-a8e6-afb5bfead58c")
+			(uuid "2109498d-0c28-4284-a233-ed18490bbf9b")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1455,7 +1454,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "cae25321-1e25-44b3-9309-1453ce769830")
+			(uuid "eb3b8874-a59a-447d-a6dc-7b2adb32002e")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1622,7 +1621,7 @@
 			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net "/PWM-GND")
+			(net "/PWM-Ctrl")
 			(pinfunction "Pin_1_1")
 			(pintype "passive")
 			(solder_mask_margin 0.102)
@@ -1634,7 +1633,7 @@
 			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net "/PWM-Ctrl")
+			(net "/PWM-GND")
 			(pinfunction "Pin_2_2")
 			(pintype "passive")
 			(solder_mask_margin 0.102)
@@ -2198,10 +2197,10 @@
 			(justify left bottom)
 		)
 	)
-	(gr_text "GND\n"
-		(at 216.9 92.29 90)
+	(gr_text "PWM"
+		(at 217.15 92.29 90)
 		(layer "F.SilkS")
-		(uuid "1c6ed05b-2f1d-4a55-8047-6df05a595b6f")
+		(uuid "f0577465-5cb5-493f-9596-70d72b102a60")
 		(effects
 			(font
 				(size 1 1)
@@ -2210,10 +2209,10 @@
 			(justify left bottom)
 		)
 	)
-	(gr_text "PWM"
+	(gr_text "GND\n"
 		(at 219.15 92.29 90)
 		(layer "F.SilkS")
-		(uuid "f0577465-5cb5-493f-9596-70d72b102a60")
+		(uuid "1c6ed05b-2f1d-4a55-8047-6df05a595b6f")
 		(effects
 			(font
 				(size 1 1)
@@ -6972,100 +6971,60 @@
 		(uuid "efcb002c-8072-40e1-a9af-06cd8924d620")
 	)
 	(segment
-		(start 202.4 96.04)
-		(end 206.4 92.04)
-		(width 0.2)
-		(layer "B.Cu")
-		(net "/PWM-GND")
-		(uuid "608170b9-d417-4f1a-8b9d-805ea7c629bf")
-	)
-	(segment
-		(start 211.65 94.29)
-		(end 216.4 94.29)
-		(width 0.2)
-		(layer "B.Cu")
-		(net "/PWM-GND")
-		(uuid "72d7f8da-158d-41f6-8e29-89246daac939")
-	)
-	(segment
-		(start 206.4 92.04)
-		(end 209.4 92.04)
-		(width 0.2)
-		(layer "B.Cu")
-		(net "/PWM-GND")
-		(uuid "86f82187-9eec-43ff-aee8-0f424e44a2cd")
-	)
-	(segment
-		(start 209.4 92.04)
-		(end 211.65 94.29)
-		(width 0.2)
-		(layer "B.Cu")
-		(net "/PWM-GND")
-		(uuid "f6acf4eb-acc5-46e5-86f3-8ba3f827d1f0")
-	)
-	(segment
-		(start 207.9 96.04)
-		(end 209.65 94.29)
-		(width 0.2)
+		(start 209.65 94.29)
+		(end 209.65 93.79)
+		(width 0.4)
 		(layer "F.Cu")
 		(net "/PWM-Ctrl")
-		(uuid "36d0d454-6b04-4e9e-8129-0833c691d6e1")
-	)
-	(segment
-		(start 218.4 94.29)
-		(end 216.65 96.04)
-		(width 0.2)
-		(layer "F.Cu")
-		(net "/PWM-Ctrl")
-		(uuid "4efab9bc-31ac-4dfe-9c32-14d480e4a1eb")
+		(uuid "76a7b4ae-02aa-4461-8d21-7cc9041e6d0a")
 	)
 	(segment
 		(start 204.4 96.04)
-		(end 207.9 96.04)
-		(width 0.2)
+		(end 206.15 94.29)
+		(width 0.4)
 		(layer "F.Cu")
 		(net "/PWM-Ctrl")
-		(uuid "5b5cf7cc-372f-439d-9c25-04c4194e60b2")
+		(uuid "856e0255-c713-4b15-9f14-190bbe7a4d59")
 	)
 	(segment
-		(start 216.65 96.04)
-		(end 207.9 96.04)
-		(width 0.2)
+		(start 206.15 94.29)
+		(end 209.65 94.29)
+		(width 0.4)
 		(layer "F.Cu")
 		(net "/PWM-Ctrl")
-		(uuid "c31ccf35-b235-4f4f-9f61-ea3785381833")
+		(uuid "8fad15d1-ea40-4412-9bc1-7bbed613fca3")
 	)
 	(segment
-		(start 218.4 94.29)
-		(end 216.65 96.04)
-		(width 0.2)
-		(layer "B.Cu")
+		(start 215.15 92.29)
+		(end 216.65 93.79)
+		(width 0.4)
+		(layer "F.Cu")
 		(net "/PWM-Ctrl")
-		(uuid "3d20d4fe-49ec-4496-b421-e999acd38cdd")
+		(uuid "a11eceed-7aaa-4d78-814a-2646bc6c5837")
 	)
 	(segment
-		(start 216.65 96.04)
-		(end 207.9 96.04)
-		(width 0.2)
-		(layer "B.Cu")
+		(start 209.65 93.79)
+		(end 211.15 92.29)
+		(width 0.4)
+		(layer "F.Cu")
 		(net "/PWM-Ctrl")
-		(uuid "78c43413-d698-423a-a531-343484f37960")
+		(uuid "ae1f0929-ead4-4223-baf0-86ef0ce1ca01")
 	)
 	(segment
-		(start 207.9 96.04)
-		(end 204.4 96.04)
-		(width 0.2)
-		(layer "B.Cu")
+		(start 216.65 93.79)
+		(end 216.65 94.29)
+		(width 0.4)
+		(layer "F.Cu")
 		(net "/PWM-Ctrl")
-		(uuid "a18e8155-be32-444f-b0b3-e1226900822e")
+		(uuid "bc15310e-bbf9-41b8-a63f-885fbdf9143f")
 	)
 	(segment
-		(start 209.65 94.29)
-		(end 207.9 96.04)
-		(width 0.2)
-		(layer "B.Cu")
+		(start 211.15 92.29)
+		(end 215.15 92.29)
+		(width 0.4)
+		(layer "F.Cu")
 		(net "/PWM-Ctrl")
-		(uuid "edb4d20e-ba88-4b53-a26a-4f0307b5f538")
+		(uuid "e0e2ce28-7fa4-405e-a55e-a7f6b2dab55b")
 	)
 	(zone
 		(net "GND")
