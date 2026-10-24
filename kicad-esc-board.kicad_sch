@@ -1182,6 +1182,16 @@
 	)
 	(wire
 		(pts
+			(xy 33.02 95.25) (xy 48.26 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "67ffd784-7638-419f-85f3-f30a8eeb60ed")
+	)
+	(wire
+		(pts
 			(xy 41.91 69.85) (xy 41.91 68.58)
 		)
 		(stroke
@@ -1199,6 +1209,16 @@
 			(type default)
 		)
 		(uuid "69f73495-9cb4-458e-aff1-1b6715c21383")
+	)
+	(wire
+		(pts
+			(xy 48.26 95.25) (xy 48.26 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6a64b1b8-22e4-4320-91e2-93b575c3d819")
 	)
 	(wire
 		(pts
@@ -1239,6 +1259,16 @@
 			(type default)
 		)
 		(uuid "8e2ec1b9-02b2-4b60-ba89-9931fa4f770b")
+	)
+	(wire
+		(pts
+			(xy 33.02 99.06) (xy 33.02 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9dcdb066-0c91-49eb-9134-8cc4c9cecec4")
 	)
 	(wire
 		(pts
@@ -1319,6 +1349,84 @@
 			(justify left bottom)
 		)
 		(uuid "97a25068-8b47-4ece-bb89-427c68eff66d")
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 33.02 99.06 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "06029826-5338-458f-9192-7bd719fc8985")
+		(property "Reference" "#PWR06"
+			(at 33.02 105.41 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 33.02 104.14 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 33.02 99.06 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 33.02 99.06 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 33.02 99.06 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "ee83caa1-bed7-439f-b296-d076f46ace84")
+		)
+		(instances
+			(project "kicad-esc-board"
+				(path "/4e280a3c-f245-4f61-bab7-25e6d294ade1"
+					(reference "#PWR06")
+					(unit 1)
+				)
+			)
+		)
 	)
 	(symbol
 		(lib_id "power:GND")
@@ -2367,6 +2475,84 @@
 			(project "kicad-esc-board"
 				(path "/4e280a3c-f245-4f61-bab7-25e6d294ade1"
 					(reference "J6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 48.26 99.06 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "fdd32e61-2eb5-4a90-a779-8e5d103f4289")
+		(property "Reference" "#PWR07"
+			(at 48.26 105.41 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "PWM-GND"
+			(at 48.26 104.14 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 48.26 99.06 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 48.26 99.06 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 48.26 99.06 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "5223b89c-0f7c-49e6-a527-6a0954226420")
+		)
+		(instances
+			(project "kicad-esc-board"
+				(path "/4e280a3c-f245-4f61-bab7-25e6d294ade1"
+					(reference "#PWR07")
 					(unit 1)
 				)
 			)
